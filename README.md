@@ -38,6 +38,8 @@ Used for data visualization and text analysis.
 - bpg-stopwords.txt : list of [stopwords](https://voyant-tools.org/docs/#!/guide/stopwords) that were added to the out-of-the-box list for Spanish terms. The word selection was somewhat arbitrary, primarily intended to test the stopwords functionality in Voyant
 - bpg-concordance.csv : concordance view for the word *casa* (house), which is one of the high-frequency terms in this corpus
 
+[Additional views and data based on this corpus](https://voyant-tools.org/?palette=&stopList=keywords-4762d86dbe73928f7dc35593f360b721&panels=cirrus%2Creader%2Ctrends%2Csummary%2Ccontexts&corpus=030c2cc34cd5df96c2e46844cf574fe8).
+
 ## Text analysis: image examples
 Image 01. Word cloud generated from word-frequency counts across the entire corpus :  
 ![bpg-word-frequency](https://user-images.githubusercontent.com/102780927/162101648-a8fdf724-f37b-4fe0-b823-35df9c3c77c3.png)
